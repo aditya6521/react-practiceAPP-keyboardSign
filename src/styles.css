@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.head {
+  text-align: center;
+}
+body {
+  background-color: aqua;
+}
+input {
+  padding: 1rem;
+  width: 60%;
+  text-align: center;
+  background-color: aquamarine;
+}
+span {
+  padding: 1rem;
+}
